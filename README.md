@@ -1,4 +1,8 @@
-# How to use
+## Demo
+
+https://simple-game-test.netlify.com/
+
+## How to use
 
 1. Install project tools: `npm install -g parcel-bundler typescript`
 2. Install project dependencies: `npm install`
