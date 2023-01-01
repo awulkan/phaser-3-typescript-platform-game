@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "assets": "^3.0.1",
-    "phaser": "^3.17.0",
+    "phaser": "^3.55.2",
     "src": "^1.1.2"
   }
 }
